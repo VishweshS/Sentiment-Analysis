@@ -10,7 +10,7 @@ Given a dataset of several thousand single-sentence reviews collected from three
 
 The project has two parts. Q1 is restricted to bag-of-words representation and logistic regression model. Q2 is an open-ended problem. For more details about the project and the dataset, refer to the website: https://www.cs.tufts.edu/cs/135/2023f/projectA.html
 
-<br>
-Notes:
 
-* For more details on the project, refer to the [Report](https://github.com/VishweshS/Sentiment-Analysis/blob/main/Report.pdf).
+<br>
+
+For more details on the project, refer to the [Report](https://github.com/VishweshS/Sentiment-Analysis/blob/main/Report.pdf).
